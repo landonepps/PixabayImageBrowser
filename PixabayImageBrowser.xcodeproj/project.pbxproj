@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44024E0322A0E27D00FE7879 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 44024E0222A0E27D00FE7879 /* README.md */; };
 		440BA9B4226DBBF400B2788D /* PhotoFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440BA9B3226DBBF400B2788D /* PhotoFlowLayout.swift */; };
 		4415F995226F39D00073C167 /* LargePhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4415F994226F39D00073C167 /* LargePhotoViewController.swift */; };
 		442DD2DC226D47FD00300A0F /* PhotoCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442DD2DB226D47FD00300A0F /* PhotoCollectionViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44024E0222A0E27D00FE7879 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		440BA9B3226DBBF400B2788D /* PhotoFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFlowLayout.swift; sourceTree = "<group>"; };
 		4415F994226F39D00073C167 /* LargePhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargePhotoViewController.swift; sourceTree = "<group>"; };
 		442DD2DB226D47FD00300A0F /* PhotoCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		4483982E226C29B1001022CB = {
 			isa = PBXGroup;
 			children = (
+				44024E0222A0E27D00FE7879 /* README.md */,
 				44839839226C29B2001022CB /* PixabayImageBrowser */,
 				44839838226C29B2001022CB /* Products */,
 			);
@@ -150,6 +153,7 @@
 			files = (
 				44839845226C29B3001022CB /* LaunchScreen.storyboard in Resources */,
 				44839842226C29B3001022CB /* Assets.xcassets in Resources */,
+				44024E0322A0E27D00FE7879 /* README.md in Resources */,
 				44839840226C29B2001022CB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
